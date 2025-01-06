@@ -53,7 +53,9 @@ Daha fazlası için [tüm depolarıma](https://github.com/kullanici-adiniz?tab=r
 - Object Oriented Programing in Python [Datacamp], [2021]
 - 
 
----
+[![GitHub followers](https://img.shields.io/github/followers/farukyildirim?label=Follow&style=social)](https://github.com/farukyildirim)
+
+
 
 ### 📢 Bana Ulaşın
 
