@@ -14,15 +14,15 @@ Merhaba! Ben Faruk, Endüstri Mühendisliği eğitimini bitirdikten sonra uzun y
 
 #### Öne Çıkan Projeler
 
-🔍 **[Proje 1 Adı]**  
-[Projenin bağlantısı]  
-- **Açıklama**: Projenin kısa bir özeti (ne işe yaradığı, hangi sorunları çözdüğü vb.).
-- **Teknolojiler**: [Kullanılan teknolojiler]
+🔍 **[Paketleme Algoritması]**  
+  
+- **Açıklama**:İhracat işlemlerinde kullanılan paketleme listesinin otomatik olarak oluşturulması ve erp ye entegrasyonu
+- **Teknolojiler**: Python, Sql
 
-🔍 **[Proje 2 Adı]**  
-[Projenin bağlantısı]  
-- **Açıklama**: Projenin kısa bir özeti.
-- **Teknolojiler**: [Kullanılan teknolojiler]
+🔍 **[solid works erp entegrasyonu]**  
+ 
+- **Açıklama**: Solid works te oluşturulan çizimlerden erp urun agacı aktarma otomasyonu
+- **Teknolojiler**: Python,Mssql
 
 Daha fazlası için [tüm depolarıma](https://github.com/kullanici-adiniz?tab=repositories) göz atabilirsiniz!
 
@@ -32,7 +32,7 @@ Daha fazlası için [tüm depolarıma](https://github.com/kullanici-adiniz?tab=r
 
 | **Kategori**       | **Yetenekler**                                  |
 |---------------------|-----------------------------------------------|
-| **Programlama**    | [Python, JavaScript, C#, vb.]                 |
+| **Programlama**    | [Python, JavaScript]                 |
 | **Framework'ler**  | [React, Django, Flask, vb.]                   |
 | **Araçlar & Teknolojiler** | [Docker, Git, CI/CD, vb.]                   |
 | **Veri Tabanları**   | [PostgreSQL, MSSQL, MongoDB, vb.]           |
