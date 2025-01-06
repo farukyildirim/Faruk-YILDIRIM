@@ -1,4 +1,5 @@
 # Merhaba, Ben [Faruk YILDIRIM]! 👋
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=25&color=%2336BCF7&lines=Merhaba!+Ben+%5BFARUK+YILDIRIM%5D!)
 
 ### Hakkımda
 Merhaba! Ben Faruk, Endüstri Mühendisliği eğitimini bitirdikten sonra uzun yıllar erp projelerinde uygulama ve yazılım geliştirdim.
